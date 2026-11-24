@@ -1,2 +1,3 @@
 # vive-coding-trainer
-El entrenador puede darte una serie de ejercicios para realizar en el gimnacio en funcion de los dias que entrenas y los grupos musculares que quieres ejercitar
+Es dificil llegar al gimnacio y ponerse a armar un plan de los ejercicios que vas a hacer ese día. En algunos gimnacios tienes una ficha personal que te arma alguno de los instructores y luego la repites durante algunas semanas pero no siempre los instructores estan disponibles para armarlas.
+Esta aplicacion debe funcionar como un entrenador experimentado que puede darte una serie de ejercicios para realizar en el gimnacio en funcion de los dias que entrenas y los grupos musculares que quieres ejercitar. Tambien debe permitir registrar los pesos que utilizas en cada ejercicio para poder medir el progreso de tus grupos musculares.
